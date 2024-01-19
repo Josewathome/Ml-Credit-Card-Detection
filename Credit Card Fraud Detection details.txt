@@ -1,0 +1,14 @@
+ML | CREDIT CARD FRAUD DETECTION
+
+The challenge is to recognize fraudulent credit card tansactions so that the customers of credit card campanies are no charged for items that did not purchase.
+ 
+CHALLENGES INVOLVED
+1. Imbalanced Data i.e most of the transactions(98.8 %) are not fraudulent which makes it really hard for detecting the fraudulent ones.
+2. Data availability as the data is modtly private.
+3. Miscalassified Data can be another major issue, as not every fraudulent trasactions is caught and reported.
+
+HOW TO TACKLE THE CHALLENGES
+1.The model used must be simple and fast enough to detect the anomaly and classify it as fraudulent transactions as quickly as possible.
+2.imbalance can be deal with by properly using good methods.
+3. A more trustworthu source must be teaken which doublecheck the data atleast for training the model.
+4. We can make the model simple and interpretable so that when the scammer adapts to it with just some tweaks we can have a new model up and running to deploy.
